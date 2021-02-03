@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 36D8-630F
+
+ Directory of C:\Users\Asus\Desktop\jenkinsprac
+
+03-02-2021  22:25    <DIR>          .
+03-02-2021  22:25    <DIR>          ..
+03-02-2021  22:19               468 Hello.class
+03-02-2021  18:11               144 Hello.java
+03-02-2021  22:25                 0 newFile.txt
+               3 File(s)            612 bytes
+               2 Dir(s)  84,939,911,168 bytes free
